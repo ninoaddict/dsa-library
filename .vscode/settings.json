@@ -3,6 +3,8 @@
         "*.ejs": "html",
         "*.h": "c",
         "*.c": "c",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "tuple": "cpp",
+        "cstdlib": "cpp"
     }
 }
